@@ -80,6 +80,9 @@ Made with ❤️ by **Karthik Goud**
 ## 📬 Contact
 
 📧 Email: karthikjord@email.com  
-🌐 GitHub: [github.com/K4rth1k](https://github.com/K4rth1k)
+🌐 GitHub: (https://github.com/karthik-jord)
+🌐 GitHub: (https://github.com/hrushikesh7189)
+🌐 GitHub: (https://github.com/ashwanthboddu)
+🌐 GitHub: (https://github.com/chilukaharshith)
 
  
