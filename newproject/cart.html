@@ -1,0 +1,38 @@
+<!-- cart.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FashionFit - My Cart</title>
+  <link rel="stylesheet" href="/newproject/cart.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet"/>
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">SecondSkin</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="cart.html">My Cart</a></li>
+        <li><a href="login.html">Login</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="cart-container">
+    <h2>My Cart</h2>
+    <div class="cart-items" id="cart-items"></div>
+    <div class="checkout">
+      <p id="total-price"></p>
+      <button id="checkout-btn" onclick="checkout()">Checkout</button>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 SecondSkin. All rights reserved.</p>
+  </footer>
+
+  <script src="/newproject/cart.js"></script>
+</body>
+</html>
